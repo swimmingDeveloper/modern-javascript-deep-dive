@@ -85,10 +85,6 @@ var multiline = `this is
 var escapeSequence = `this is\nescape sequence[\t<-tab]`;
 ```
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/303ae57b-0f2e-4d8b-ad0b-8e3c369cc591/Untitled.png)
-
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/36bfcecf-7029-4b18-88d9-44336603a123/Untitled.png)
-
 - 템플릿 리터럴이란 문자열을 백틱 (````)으로 감싼 표기법이다
   - 다양한 서식을 지원하며, 이들은 모두 런타임 시에 일반 문자열 형태로 변환되어 처리된다
 - 템플릿 리터럴에서 사용할 수 있는 이스케이프 시퀀스
